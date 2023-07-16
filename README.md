@@ -1,2 +1,2 @@
 # Sistem-Informasi-Koperasi
-Java
+Project Semester 2 Java Swing "Koperasi"
