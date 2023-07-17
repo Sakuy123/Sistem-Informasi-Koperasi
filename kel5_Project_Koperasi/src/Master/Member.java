@@ -1,4 +1,4 @@
-package Master;
+qqpackage Master;
 
 import DBConnection.DBConnect;
 import com.toedter.calendar.JDateChooser;
@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.text.Format;
+import java.text.Format;asdasdsdsada
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -18,7 +18,7 @@ import java.util.Date;
 public class Member extends JFrame {
     public JPanel Member;
     private JTextField txtIdAnggota;
-    private JTextField txtNamaAnggota;
+    private JTextField txtNamaAnggota;qq
     private JTextField txtAlamat;
     private JTextField txtStatus;
     private JRadioButton rbLaki;
